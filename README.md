@@ -11,5 +11,5 @@ I'm Fahima Mokhtari, software engineer from Algeria!
 - 💬 Ask me about anything and I will be glad to help with whatever I can :)
 - 📫 How to reach me: Email: df_mokhtari@esi.dz
 - 😄 Pronouns: Call me Fahima (She/Her)
-- ⚡ Fun fact: Other than coding, I'm a curious girl who's thirsty to knowledge, fitness enthusiast, art lover, passionate about cultures, love reading, and cooking too, recently...
+- ⚡ Fun fact: Other than coding and solving problems, I'm a curious girl who's thirsty to knowledge, fitness enthusiast, art lover, passionate about cultures, love reading, and cooking too, recently...
 
