@@ -10,6 +10,6 @@ Hey there!
 - 👯 I’d love to work on any IoT project (Haven't done much in IoT so far, but I'd love to work on a real world project in the future)
 - 💬 Ask me about anything!
 - 📫 How to reach me: Email: df_mokhtari@esi.dz
-- 😄 Pronouns: Friends call me with several nicknames, but I prefer my first name, Fahima. (She/Her)
-- ⚡ Fun fact: Other than coding and solving problems, I'm a curious girl who's thirsty to knowledge, fitness enthusiast, art lover, passionate about cultures, love reading, and cooking too, recently...
+- 😄 Pronouns: Friends call me with several nicknames and I don't mind, but I prefer my first name, Fahima. (She/Her)
+- ⚡ Fun fact: Other than coding, I'm a curious girl who's thirsty to knowledge, hates routine, fitness enthusiast, art lover, passionate about cultures, love reading, and cooking too...
 
