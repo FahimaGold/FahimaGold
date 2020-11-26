@@ -11,5 +11,5 @@ Hey there!
 - 💬 Ask me about anything!
 - 📫 How to reach me: Email: df_mokhtari@esi.dz
 - 😄 Pronouns: Friends call me with several nicknames and I don't mind, but I prefer my first name, Fahima. (She/Her)
-- ⚡ Fun fact: Other than coding, I'm a curious girl who's thirsty to knowledge, hates routine, fitness enthusiast, art lover, passionate about cultures, love reading, and cooking too...
+- ⚡ Fun fact: Other than coding, I'm a curious girl who's thirsty to knowledge, fitness enthusiast, art lover, passionate about cultures, love reading, and cooking too...
 
