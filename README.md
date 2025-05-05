@@ -13,7 +13,7 @@ I'm a full-stack developer passionate about building clean, scalable apps with m
 
 ## ✍️ Articles & Writing
 
-I write about tech and computer science on [**Medium**]([https://medium.com/@yourusername](http://df-mokhtari.medium.com)) — check it out if you're into deep dives and practical tips!
+I write about tech and computer science on [**Medium**](https://df-mokhtari.medium.com) — check it out if you're into deep dives and practical tips!
   
 ## 📬 Get in touch
 
