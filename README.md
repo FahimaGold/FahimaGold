@@ -19,7 +19,7 @@ I build AI/LLM systems and the infrastructure under them: a multi-provider LLM g
 - **[edenai-workflows](https://github.com/edenai/Edenai-workflows)**: Eden AI's Python SDK for AI workflows (primary author): async client, `@workflow` / `@step` orchestration, zero-config deploys via GitHub Actions
 - Zero-downtime migration of a production PostgreSQL database (228M-row tables) to encrypted RDS with logical replication
 - RAG pipeline that triages support tickets and proposes code fixes (FAISS, AST-based code chunking)
-- Security hardening: account-takeover fix, SSRF protections, OIDC CI/CD, SOC 2 / ISO 27001 remediation
+- Security hardening: SSRF protections, OIDC CI/CD, SOC 2 / ISO 27001 remediation
 
 **Stack:** Python · Django · FastAPI · Go · TypeScript · PostgreSQL · Redis · AWS · Terraform · Docker · Kubernetes · GitHub Actions
 
