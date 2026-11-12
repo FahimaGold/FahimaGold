@@ -1,10 +1,15 @@
 #### Fahima Mokhtari
-Hey there!
 
-<!--
-**FahimaGold/FahimaGold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I'm a full-stack developer passionate about building clean, scalable apps with modern tools and architecture.
+# Hi, I'm Fahima 👋
 
+**Software Engineer | Systems, Security & Cloud Infrastructure**
+📍 Kitchener, ON (Canadian PR)
+
+- 🎓 M.Sc. in Software Engineering (Innopolis University) — Full Scholarship
+- 🔒 Focus: Low-level C++/Go systems security, kernel fuzzing, enterprise SOC 2 / ISO compliance, & scalable AI infrastructure.
+- 🛠️ Contributor to **LiteLLM** (AI Gateway) & **syzkaller** (Linux Kernel Fuzzer).
+
+📫 Reach me via [LinkedIn](https://linkedin.com) | 📄 Resume attached in profile links.
 ## 💼 What I Do
 - 🛠️ Develop backend APIs with  **Javascript**,**TypeScript**, **Node.js**, **Python**, **Django**,  **Sequelize**, and **PostgreSQL**
 - 🖥️ Develop responsive frontends using **React**, **Next.js**, and modern component libraries
